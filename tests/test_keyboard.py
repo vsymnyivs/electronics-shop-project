@@ -1,6 +1,6 @@
 import pytest
 
-from src.keybord import Keyboard
+from src.keyboard import Keyboard
 
 
 @pytest.fixture
